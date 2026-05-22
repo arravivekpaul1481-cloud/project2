@@ -1,6 +1,6 @@
 # New Project
 
-This project was created from local system.
-hi vivek
+This project was created from local system.<br>
+hi vivek<br>
   I am learning github tool<br>\n
-  hello world
+  hello world.
